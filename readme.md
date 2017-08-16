@@ -3,6 +3,7 @@ Runs animations on Baxter robot.
 Make sure all .py files are executable and merry_faces is a package before running.
 
 Connect to Baxter with baxter.sh.
+
 Change directory into desired facial expression folder.
 
 Available faces are: approval, confusion, disapproval, happiness, idle, laughing, sleeping, thinking, waking, wink.
