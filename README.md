@@ -1,6 +1,6 @@
 Runs animations on Baxter robot.
 
-Requires a [setup connection with Baxter](http://sdk.rethinkrobotics.com/wiki/Hello_Baxter).
+Requires a [set up connection with Baxter](http://sdk.rethinkrobotics.com/wiki/Hello_Baxter).
 
 
 Move to baxter_facial_animation/arm_urdf/code and `chmod +x [animation].py` to make sure all .py files are executable.
