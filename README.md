@@ -4,7 +4,7 @@ Requires a [set up connection with Baxter](http://sdk.rethinkrobotics.com/wiki/W
 
 Connect to Baxter by running `./baxter.sh`. Note: baxter.sh must be moved to the top folder of workspace before it is run.
 
-Move to baxter_facial_animation/arm_urdf/code and `chmod +x [animation].py` to make sure all .py files are executable.
+Move to baxter_facial_animation/merry_faces/code and `chmod +x [animation].py` to make sure all .py files are executable.
 Also `source devel/setup.bash` in the top folder of your workspace to make sure merry_faces is a package before running.
 
 
