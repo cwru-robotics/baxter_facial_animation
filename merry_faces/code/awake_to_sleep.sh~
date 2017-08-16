@@ -3,7 +3,7 @@
 cd ..
 cd animations
 cd idle
-rosrun merry_faces idle_once.py
+rosrun merry_faces idle_temp.py
 echo Idled
 cd ..
 cd sleeping
