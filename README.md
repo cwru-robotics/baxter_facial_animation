@@ -1,6 +1,6 @@
 Runs animations on Baxter robot.
 
-Requires a [set up connection with Baxter](http://sdk.rethinkrobotics.com/wiki/Workstation_Setup).
+Requires a [set up connection with Baxter](http://sdk.rethinkrobotics.com/wiki/Workstation_Setup) with an edited baxter.sh file including baxter_hostname, your_ip, and ros_version.
 
 Connect to Baxter with baxter.sh. Note: baxter.sh must be moved to the top folder of workspace before it is run.
 
